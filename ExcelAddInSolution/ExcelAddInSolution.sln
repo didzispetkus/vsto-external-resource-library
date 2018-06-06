@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelAddIn", "ExcelAddIn\ExcelAddIn.csproj", "{329E1602-EE4D-42D0-9CFE-9EF246C9681C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfControlLibrary", "WpfControlLibrary\WpfControlLibrary.csproj", "{8E959D5D-6AA8-40F8-BD57-92ED5B69B8C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{329E1602-EE4D-42D0-9CFE-9EF246C9681C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329E1602-EE4D-42D0-9CFE-9EF246C9681C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329E1602-EE4D-42D0-9CFE-9EF246C9681C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329E1602-EE4D-42D0-9CFE-9EF246C9681C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E959D5D-6AA8-40F8-BD57-92ED5B69B8C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E959D5D-6AA8-40F8-BD57-92ED5B69B8C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E959D5D-6AA8-40F8-BD57-92ED5B69B8C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E959D5D-6AA8-40F8-BD57-92ED5B69B8C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {152BB8C8-B79A-4D3C-936F-61DB83D3F8B1}
+	EndGlobalSection
+EndGlobal
