@@ -8,7 +8,7 @@
              d:DesignHeight="200" d:DesignWidth="300">
     
     <StackPanel>
-        <Label Content="Hello world!"/>
+        <Label Content="Hello world!" Style="{StaticResource MyLabelStyle}"/>
         <Button Content="Button"/>
     </StackPanel>
 </Window>
